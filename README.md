@@ -1,2 +1,2 @@
-# NITECODE-DAY-03
-Belajar Membuat Navbar
+# NITECODE-DAY-02-2025
+Mengenal Struktur HTML, dan Elemen HTML
